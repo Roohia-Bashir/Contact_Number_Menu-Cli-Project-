@@ -18,7 +18,9 @@ Copy code:
 npx 04-rsib_contact-numbers-menue_cli
 
 Add Contact: Follow the prompts to enter the contact's name and phone number.
+
 View Contacts: Displays a list of all stored contacts.
+
 Close Menu: Exits the application.
 
 License
