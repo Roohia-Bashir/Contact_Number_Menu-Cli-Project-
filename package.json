@@ -1,0 +1,27 @@
+{
+  "name": "04-rsib_contact-numbers-menue_cli",
+  "version": "1.0.1",
+  "description": "CLI project to manage contact numbers with an intuitive menu interface.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roohia Bashir",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.12",
+    "chak": "^0.0.1-security",
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
