@@ -11,10 +11,9 @@ A simple and intuitive CLI application to manage contact numbers. This project u
 ## Installation
 
 To use this CLI application, you need to have Node.js installed. You can install the application globally using `npm`:
-
 npm install 04-rsib_contact-numbers-menue_cli
-Alternatively, you can use npx to run the CLI without installing it globally:
 
+Alternatively, you can use npx to run the CLI without installing it globally:
 Copy code
 npx 04-rsib_contact-numbers-menue_cli
 
@@ -26,6 +25,5 @@ License
 This project is licensed under the MIT License.
 
 Github link:
-
 Copy code
 `https://github.com/Roohia-Bashir`
