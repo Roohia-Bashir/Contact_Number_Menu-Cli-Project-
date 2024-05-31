@@ -14,7 +14,7 @@ To use this CLI application, you need to have Node.js installed. You can install
 npm install 04-rsib_contact-numbers-menue_cli
 
 Alternatively, you can use npx to run the CLI without installing it globally:
-Copy code
+Copy code:
 npx 04-rsib_contact-numbers-menue_cli
 
 Add Contact: Follow the prompts to enter the contact's name and phone number.
